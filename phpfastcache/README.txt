@@ -1,0 +1,1 @@
+Copy phpfastcache (http://www.phpfastcache.com/, https://github.com/khoaofgod/phpfastcache) into this directory.
